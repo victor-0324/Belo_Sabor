@@ -1,7 +1,7 @@
 # Belo_Sabor
 Controle de vendas 
 
-## Vamos  forma Uma base de dados dos cliente de uma loja de comidas 
+## Vamos  forma Uma base de dados dos clientes de uma loja de comidas 
 
 ###  vamos importa as bibliotecas que serao necessarias 
 -     from datetime import datetime
