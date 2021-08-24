@@ -16,7 +16,7 @@ Controle de vendas
 
 ## E ai entao começamos o nosso laço de reptição while para da inicio
 -   while True:
--     print('<<<<Base_De_Dados do Belo Sabor>>>>\n')
+-     print('<<<<Base_De_Dados da Belo Sabor>>>>\n')
 -     data1 = input('informe a data do pedido ou digite 1 para atualizar com a data de hoje:\n> ')
 -     if data1 == '1':
 -        data = now 
